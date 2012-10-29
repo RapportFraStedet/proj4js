@@ -1,0 +1,1 @@
+c:\python27\python build.py -c none RapportFraStedet proj4js.js
